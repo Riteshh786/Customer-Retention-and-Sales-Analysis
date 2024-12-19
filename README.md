@@ -87,29 +87,6 @@ The primary goals of this project include:
 
 ---
 
-## 🔧 **How to Run the Project**  
-
-### Clone the repository:  
-```bash  
-git clone https://github.com/YourUsername/Customer-Retention-Sales-Analysis.git  
-cd Customer-Retention-Sales-Analysis
-
-Install dependencies:
-
-pip install pandas numpy matplotlib seaborn mysql-connector-python
-
-Run the analysis:
-
-1. Open Python scripts or Jupyter Notebook for detailed analysis.
-
-
-2. Use SQL queries provided in the repository for database insights.
-
-
-
-
----
-
 🌟 Key Recommendations
 
 1. Improve Retention Strategies: Introduce loyalty programs or personalized offers to encourage repeat purchases.
